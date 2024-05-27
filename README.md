@@ -1,1 +1,2 @@
 # face-detection-attendance-system
+This project integrates the ESP32-CAM development board with facial detection capabilities to create an efficient and automated attendance tracking solution. The ESP32-CAM captures images and processes them using machine learning algorithms to detect and recognize faces in real-time. With this system, you can easily monitor attendance without the need for manual entry or supervision
